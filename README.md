@@ -158,10 +158,10 @@ h1{
 
 
 ## OUTPUT:
-![OUTPUT](output.png)
+![OUTPUT](./output.png)
 
 ## HTML VALIDATOR:
-![HTML VALIDATOR](valido.png)
+![HTML VALIDATOR](./valido.png)
 
 ## RESULT:
 The program for creating a calculator usinf javascript is excuted successfully.
